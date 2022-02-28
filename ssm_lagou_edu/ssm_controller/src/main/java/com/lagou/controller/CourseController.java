@@ -21,7 +21,7 @@ import java.util.Map;
 
 /**
  * @program: com.lagou.controller
- * @description: 课程信息相关操作
+ * @description: 课程信息相关
  * @author: 霂惷
  */
 @RestController
